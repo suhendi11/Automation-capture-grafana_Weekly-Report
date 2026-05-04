@@ -21,8 +21,8 @@ from pptx.util import Inches
 captured_images = []
 TEMPLATE_FILE = "template_grafana.pptx"
 
-GRAFANA_USER = "icscompute"
-GRAFANA_PASS = "icsW4tch!"
+GRAFANA_USER = ""
+GRAFANA_PASS = ""
 
 
 # ================= ARGUMENT =================
